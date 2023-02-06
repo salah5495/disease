@@ -1,1 +1,1 @@
-# disease_app
+# disease-app
